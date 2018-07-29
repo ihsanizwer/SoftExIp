@@ -5,7 +5,7 @@ It will output the results in to a CSV file.
 
 # Usage.
 
-first clone this repo to your machine using the following command: git clone https://github.com/ihsanizwer/SoftExIp.git
+First clone this repo to your machine using the following command: git clone https://github.com/ihsanizwer/SoftExIp.git
 
 Then give permissions to the script: chmod 755 softexip_v2.sh
 
