@@ -1,7 +1,7 @@
 # SoftExIp
 
 This is a simple script that will find excluded IP based logs from a given log.
-It will output the resulting logs in to a CSV file.
+It will output the results in to a CSV file.
 
 # Usage.
 
