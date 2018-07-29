@@ -3,7 +3,7 @@
 This is a simple script that will find excluded IP based logs from a given log.
 It will output the resulting logs in to a CSV file.
 
-Usage.
+# Usage.
 
 first clone this repo to your machine using the following command: git clone https://github.com/ihsanizwer/SoftExIp.git
 
@@ -23,5 +23,5 @@ The CSV file will be generated.
 
 
 
-Warnings:
+# Warnings:
 Make sure that you leave the last line of the config file softexip.cfg as it is. Make sure there are no spaces or new lines between the IPs in the config file. Make sure that there are no new lines after the comment line in the config file.
