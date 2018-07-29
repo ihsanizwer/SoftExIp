@@ -19,9 +19,11 @@ Now run the script as follows: ./softexip_v2.sh
 
 It will ask to provide log file name. Here, if the log file is in the same directory that the script exists, just enter the name of the log file. Otherwise enter the absolute location and name the log file.
 
-The CSV file will be generated.
+The CSV file will be generated. You can also access just the logs containing the IPs by opening the tempfile.txt
 
 
 
 # Warnings:
 Make sure that you leave the last line of the config file softexip.cfg as it is. Make sure there are no spaces or new lines between the IPs in the config file. Make sure that there are no new lines after the comment line in the config file.
+
+Make sure you copy existing results of this scripts(CSV file and tempfile) as it will be overwritten with new files when run again.
